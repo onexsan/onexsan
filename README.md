@@ -1,10 +1,17 @@
 ### Hi there! 👋
 
-I'm a **Frontend (Vue.js) developer** with **>1.5 years** of experience. I'm also familiar with **Vuex+Vue-router** and **Nuxt.js** and use it in my everyday work. I believe that web should look great, feel good and be fun!
+A solution-driven **Frontend developer** with **2.5+ years** of experience. I aspire to develop fast, scalable and great-looking web applications.
 
-You can read more about my _skills_ in my [portfolio](https://onexsan.github.io/filileeva-ls/). And if you want to have a look at my recent _projects_ - check out the pinned section below!
+I have extensive experience with **Vue (2/3)**, **Nuxt.js** and **TypeScript**. Over the years I helped companies improve thier **website performance optimization**, implemented **SSR**, worked with **responsive and adaptive web design**, gave advice on **UI/UX** patterns, learned **SEO** and **accessibility** best practices and used a variety of most popular libraries (**i18n, form validation, user authentification** - the list could go on and on!). 
 
-- 🌱 _I’m currently learning_ **Typescript** and **Vue 3**! Also I've just started looking into **algorithms** more thoroughly.
-- 📫 _How to reach me:_ via [Telegram](https://t.me/onexsan)  or via email: onexsan@gmail.com
-- ⚡ _Fun fact:_ Once I've written a visual novel from scratch on Ren'py - even though I've never touched Python before!
+I’m not afraid of diving into new technologies and always trying to stay up-to-date on trends in the industry. I’d love to work with a team of motivated professionals willing to develop high-quality products.
+
+- 👾 If you want to have a look at my _recent projects_ - check out the pins below!
+- 📬 You can always _reach me_ via email at [onexsan@gmail.com](mailto:onexsan@gmail.com) or in [Telegram](https://t.me/onexsan)
+- ⚡ _Fun fact:_ I love writing stories and creating small indie-games! Once I've written a visual novel from scratch on Ren'py - even though I've never touched Python before
+
+#frontend #vue #vue3 #vue2 #nuxt #ssr #javascript #typescript
+#vuex #pinia #bootstrap #vuetify #tailwind #a11y
+
+
 
