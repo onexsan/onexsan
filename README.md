@@ -2,7 +2,7 @@
 
 A solution-driven **Frontend developer** with **2.5+ years** of experience. I aspire to develop fast, scalable and great-looking web applications.
 
-I have extensive experience with **Vue (2/3)**, **Nuxt.js** and **TypeScript**. Over the years I helped companies improve thier **website performance optimization**, implemented **SSR**, worked with **responsive and adaptive web design**, gave advice on **UI/UX** patterns, learned **SEO** and **accessibility** best practices and used a variety of most popular libraries (**i18n, form validation, user authentification** - the list could go on and on!). 
+I have extensive experience with **Vue (2/3)**, **Nuxt.js** and **TypeScript**. Over the years I helped companies improve their **website performance optimization**, implemented **SSR**, worked with **responsive and adaptive web design**, gave advice on **UI/UX** patterns, learned some of **accessibility** best practices and used a variety of most popular libraries (**i18n, form validation, user authentification** - the list could go on and on!). 
 
 I’m not afraid of diving into new technologies and always trying to stay up-to-date on trends in the industry. I’d love to work with a team of motivated professionals willing to develop high-quality products.
 
