@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a frontend developer with expertise in **Vue, Nuxt, JavaScript, TypeScript**, and a growing proficiency in **React and Node.js**. I have over **3 years of commercial experience** and aspire to develop fast, scalable and great-looking web applications.
+I'm a frontend developer with expertise in **Vue, Nuxt, JavaScript, TypeScript**, and a growing proficiency in **React and Node.js**. I have over **4 years of commercial experience** and aspire to develop fast, scalable and great-looking web applications.
 
 ---
 
