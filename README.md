@@ -1,12 +1,11 @@
 ### Hello! 👋
 
-I'm a frontend developer with expertise in **Vue, Nuxt, JavaScript, TypeScript**, and a growing proficiency in **React and Node.js**. I have over **4 years of commercial experience** and aspire to develop fast, scalable and great-looking web applications.
+I'm a **Frontend Developer with 5+ years of experience**, specializing in **Vue 3 and TypeScript**.
 
----
+I've worked extensively in fintech, where I managed the payment widget and integrated complex payment flows and solutions, including Apple Pay and Google Pay. I'm also experienced in modernizing legacy systems, refactoring UIs, and improving application performance and maintainability.
 
-- 🔗 Check out my [Notion page](https://bit.ly/filileeva-frontend-dev) to find my certificates and CV
-- 👾 If you want to have a look at my _recent projects_ - check out the pins below
-- 📬 You can always _reach me_ via email at [onexsan@gmail.com](mailto:onexsan@gmail.com) or in [Telegram](https://t.me/onexsan)
+* 📄 [Check out my CV](https://drive.google.com/file/d/1GkEJDx7M0747z5MIZsogVC9oZwinlCHv/view?usp=sharing)
+* 📬 Reach me at [onexsan@gmail.com](mailto:onexsan@gmail.com)
 
 
 
